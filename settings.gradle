@@ -1,0 +1,2 @@
+rootProject.name='ludo_offline'
+include ':app'
